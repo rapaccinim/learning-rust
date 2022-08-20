@@ -67,7 +67,7 @@ Hello, world!
 cargo new hello
      Created binary (application) `hello` package
 ```
-I could have used the `--vcs none` option to override the default `git` configuration, avoiding to create `.git` and `.gitignore`.
+I could have used the `--vcs none` option to override the version control configuration.
 
 `cargo` has created the `hello` package with:
 ```

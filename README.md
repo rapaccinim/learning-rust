@@ -11,6 +11,10 @@ I am using a Linux environment for writing, running and testing the code.
 ## Chapters
 * [Intro](./chapters/1-intro.md)
 
+## Code Examples
+* [Hello World](./examples/1-hello-world)
+* [Simple Function](./examples/2-simple-fn)
+
 ## Additional Resources
 * [The Book](https://github.com/rust-lang/book)
 * [Programming Rust](https://github.com/ProgrammingRust)

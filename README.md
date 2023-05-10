@@ -13,7 +13,7 @@ I am using a Linux environment for writing, running and testing the code.
 
 ## Code Examples
 * [Hello World](./examples/1-hello-world)
-* [Simple Function](./examples/2-simple-fn)
+* [Simple Function](./examples/2-fn-examples/simple_fn)
 
 ## Additional Resources
 * [The Book](https://github.com/rust-lang/book)
